@@ -1,0 +1,14 @@
+div {
+	text-align: center;
+	border: 15px solid yellow;
+	height: 220px;
+	width: 240px;
+	padding: 10px;
+}
+.auto{
+	margin: auto;
+	text-align: left;
+}
+p {
+	padding: 10px;
+}
